@@ -2,7 +2,7 @@
 Unexpected removed: ['    +<script src="https://apis.google.com/js/plusone.js" type="text/javascript">', '    +</script>']
 
 ['fb-display-events-shortcode','os-related-posts']
-Unexpected added: ['    +/home/igor/mestrado/cms-conflict-project/cms-testing-framework/environment/wordpress/wordpress/wp-content/plugins/os-related-posts/os-related-posts.php', '    +Warning', '    +<br/>', '    +on line', '    +</b>', '    +<b>', '    +:  Division by zero in', '    +<link href="http://fonts.googleapis.com/css?family=Oswald%7COpen+Sans%7CFontdiner+Swanky%7CCrafty+Girls%7CPacifico%7CSatisfy%7CGloria+Hallelujah%7CBangers%7CAudiowide%7CSacramento&amp;ver=4.6" id="frontend-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    +570']
+Unexpected added: ['    +/pena/environment/wordpress/wordpress/wp-content/plugins/os-related-posts/os-related-posts.php', '    +Warning', '    +<br/>', '    +on line', '    +</b>', '    +<b>', '    +:  Division by zero in', '    +<link href="http://fonts.googleapis.com/css?family=Oswald%7COpen+Sans%7CFontdiner+Swanky%7CCrafty+Girls%7CPacifico%7CSatisfy%7CGloria+Hallelujah%7CBangers%7CAudiowide%7CSacramento&amp;ver=4.6" id="frontend-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    +570']
 Unexpected removed: ['    +<link href="http://fonts.googleapis.com/css?family=Oswald%7COpen+Sans%7CFontdiner+Swanky%7CCrafty+Girls%7CPacifico%7CSatisfy%7CGloria+Hallelujah%7CBangers%7CAudiowide%7CSacramento&amp;ver=4.6" id="frontend-fonts-css" media="all" rel="stylesheet" type="text/css">']
 
 ['wp-author-date-and-meta-remover','remove-query-strings-from-static-resources']
