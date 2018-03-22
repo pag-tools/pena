@@ -1,10 +1,18 @@
 <header>
-    <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    <a href="{{ site.baseurl }}/"><h1 class="title">{{ page.title | default: site.title | default: site.github.repository_name }}</h1></a>
     <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104676221-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-104676221-2');
+    </script>
+
 </header>
       
 <section id="downloads" class="clearfix">
-    <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
-    <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-    <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
+    <a href="{{ site.baseurl }}/assets/pena.zip" id="download-zip" class="button"><span>pena.zip</span></a>
+    <a href="{{ site.baseurl }}/assets/logs.zip" id="download-zip" class="button"><span>logs.zip</span></a>
 </section>

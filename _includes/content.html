@@ -1,3 +1,37 @@
-<h1>Setup</h1>
-<h1>Running</h1>
-<h1>Reports</h1>
+<ul>
+    <li><h2>Pre-requisites</h2>
+    <ul>
+        <li><a href="https://www.docker.com/get-docker">Docker</a></li>
+    </ul>
+    </li>
+
+    <li><h2>Installation</h2>
+        <ol>
+                <!-- <li>Download our Project <a href="{{ site.baseurl }}/assets/docker-compose.yml">docker-compose.yml</a></li> -->
+                <li>Download <a href="{{ site.baseurl }}/assets/pena.zip">PENA</a> project and extract it on your local environment</li>
+                <li>Go to PENA folder and build PENA container:</li>
+                <!-- <label style="background-color: white; color: black"></label> (this step takes a while to download all the dependencies and configure the environment) -->
+                <code>$ cd pena/ && docker build -t pena</code>
+                <!-- <li>Download our Project <a href="{{ site.baseurl }}/assets/docker-compose.yml">docker-compose.yml</a></li> -->
+                <!-- <li>Open terminal in the same directory of our Dockerfile and type: "docker-compose -d" </li> -->
+                <label style="background-color: white; color: black"></label>
+            </ol>
+    </li>
+
+    <li><h2>Running experiments</h2>
+    <ul>
+        <li>Run PENA container:</li>
+        <code>$ docker run -it -v $(pwd)/pena:/pena -p 8081:8081 --rm pena bash</code>
+        <li>To run our experiments, go to <code>$ cd PENA/experiments</code> and run the bash script desired:</li>
+        <code>$ ./efficiency-single-conflicts.sh</code><br>
+        <code>$ ./efficiency-multiple-conflicts.sh</code><br>
+        <code>$ ./accuracy-precision.sh</code><br>
+        <code>$ ./accuracy-recall.sh</code><br>
+        <code>$ ./wordpress-conflicts.sh</code>
+    </ul>
+    </li>
+
+    <li><h2>Artifacts</h2>
+        Our artifacts can be found on this <a href="{{ site.baseurl }}/assets/artifacts.html">link</a>
+    </li>
+</ul>
