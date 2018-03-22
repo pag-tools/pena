@@ -18,4 +18,4 @@ A lightweight tool to detect plugins conflicts on a WordPress environment
     - `$ ./accuracy-recall.sh`
     - `$ ./wordpress-conflicts.sh`
 
-### [Conflicts found](https://github.com/pag-tools/pena/pena/conflicts) by PENA
+### [Conflicts found](https://github.com/pag-tools/pena/tree/master/pena/conflicts) by PENA
