@@ -3,4 +3,4 @@ theme: jekyll-theme-tactile
 title: PENA Tool
 description: A lightweight tool to detect plugins conflicts on a WordPress environment
 
-artifacts_page: https://github.com/pag-tools/pena/pena
+artifacts_page: https://github.com/pag-tools/pena/tree/master/pena
