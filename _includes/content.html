@@ -1,37 +1,36 @@
 <ul>
-    <li><h2>Pre-requisites</h2>
-    <ul>
-        <li><a href="https://www.docker.com/get-docker">Docker</a></li>
-    </ul>
-    </li>
+    <li><h2>Pre-requisites:</h2><a href="https://www.docker.com/get-docker">Docker</a></li>
 
-    <li><h2>Installation</h2>
+    <li><h2>Running PENA container</h2>
         <ol>
-                <!-- <li>Download our Project <a href="{{ site.baseurl }}/assets/docker-compose.yml">docker-compose.yml</a></li> -->
-                <li>Download <a href="{{ site.baseurl }}/assets/pena.zip">PENA</a> project and extract it on your local environment</li>
-                <li>Go to PENA folder and build PENA container:</li>
-                <!-- <label style="background-color: white; color: black"></label> (this step takes a while to download all the dependencies and configure the environment) -->
-                <code>$ cd pena/ && docker build -t pena</code>
-                <!-- <li>Download our Project <a href="{{ site.baseurl }}/assets/docker-compose.yml">docker-compose.yml</a></li> -->
-                <!-- <li>Open terminal in the same directory of our Dockerfile and type: "docker-compose -d" </li> -->
-                <label style="background-color: white; color: black"></label>
-            </ol>
+            <li>Open the terminal and download <a href="https://github.com/pag-tools/pena/tree/master/pena">PENA project</a>:</br>
+                <pre>$ wget https://github.com/pag-tools/pena/blob/master/pena/dist/pena.zip</pre> 
+                or <a href="https://github.com/pag-tools/pena/blob/master/pena/dist/pena.zip">click here</a> 
+                to download the zip file.</li>
+            <li>Extract it and run: <code>$ cd pena && docker build -t pena . </code></li>
+            <li>To run the container: <code>$ docker run --name pena --rm -it -p 80:80 pena`</code></li>
+        </ol>
     </li>
 
     <li><h2>Running experiments</h2>
-    <ul>
-        <li>Run PENA container:</li>
-        <code>$ docker run -it -v $(pwd)/pena:/pena -p 8081:8081 --rm pena bash</code>
-        <li>To run our experiments, go to <code>$ cd PENA/experiments</code> and run the scripts:</li>
-        <code>$ ./efficiency-single-conflicts.sh</code><br>
-        <code>$ ./efficiency-multiple-conflicts.sh</code><br>
-        <code>$ ./accuracy-precision.sh</code><br>
-        <code>$ ./accuracy-recall.sh</code><br>
-        <code>$ ./wordpress-conflicts.sh</code>
-    </ul>
+        This steps will be executed on container, you can define an alias:</br>
+        <code>$ alias pena_cmd="docker exec -i -t pena sudo -E -u www-data $1"</code>
+        <p>All runners are inside <code>experiment</code> folder, to run each of them:</p>
+        <ul>
+            <li> Efficiency Experiment: <code><label>$ pena_cmd ./experiments/efficiency.sh<label></code></li>
+            <li> Accuracy Experiment: <code>$ pena_cmd ./experiments/accuracy.sh</code></li>
+            <li> Conflicts on Wordpress Experiment: <code>$ pena_cmd ./experiments/wp_experiment.sh</code></li>
+            <li> To run all experiments, use: <code>$ pena_cmd ./experiments/all_experiment.sh</code></li>
+        </ul>
+        
+        <p>The logs are stored on each experiment folder, you can check after each execution:</p>
+        <ul>
+            <li> Efficiency Experiment: <code>$ pena_cmd ./experiments/efficiency/logs/efficiency.log</code></li>
+            <li> Accuracy Experiment: <code>$ pena_cmd ./experiments/accuracy/logs/accuracy.log</code></li>
+            <li> Conflicts on Wordpress Experiment: <code>$ pena_cmd ./experiments/wp_experiment/logs/wp_experiment.log</code></li>
     </li>
 
     <li><h2>Artifacts</h2>
-        To check the project artifacts go to <a href="{{ site.artifacts_page }}/">our github</a>
+        To check the project artifacts (code, logs, conflicts) go to <a href="{{ site.artifacts_page }}/">our github</a>
     </li>
 </ul>
