@@ -1,21 +1,34 @@
 ## PENA tool
-A lightweight tool to detect plugins conflicts on a WordPress environment
+A lightweight tool to detect plugins conflicts on a WordPress environment.
 
 ### Requirements
 1. [Docker](https://www.docker.com/get-docker)
 
-### Installation
-1. Download [PENA project]() and extract it on your local environment.
-2. Go to PENA folder and build PENA container: `$ cd pena/ && docker build -t pena</code>`
+### Running PENA container
+1. Open the terminal and download [PENA](https://github.com/pag-tools/pena/tree/master/pena) project: `$ wget https://github.com/pag-tools/pena/blob/master/pena/dist/pena.zip` or [click here](https://github.com/pag-tools/pena/blob/master/pena/dist/pena.zip) to download the zip file.
+2. Extract it and run: `$ cd pena && docker build -t pena .`
+3. To run the container use: `$ docker run --name pena --rm -it -p 80:80 pena`
 
-### Running experiments
-1. Run PENA container: `$ docker run -it -v $(pwd)/pena:/pena -p 8081:8081 --rm pena bash`
-2. Go to `$ cd PENA/experiments`
-3. Run the scripts:
-    - `$ ./efficiency-single-conflicts.sh`
-    - `$ ./efficiency-multiple-conflicts.sh`
-    - `$ ./accuracy-precision.sh`
-    - `$ ./accuracy-recall.sh`
-    - `$ ./wordpress-conflicts.sh`
+The time-consuming to build, install, download all plugins and configure the environment depends of your internet connection.
 
-### [Conflicts found](https://github.com/pag-tools/pena/tree/master/pena/conflicts) by PENA
+### Running Experiments
+This steps will be executed on container, you can define an alias: 
+- `$ alias pena_cmd="docker exec -i -t pena sudo -E -u www-data $1"`
+
+All runners are inside `experiment` folder, to run each of them:
+- Efficiency Experiment: `pena_cmd ./experiments/efficiency.sh`
+- Accuracy Experiment: `pena_cmd ./experiments/accuracy.sh`
+- Conflicts on Wordpress Experiment: `pena_cmd ./experiments/wp_experiment.sh`
+
+* To run all of them, use: `pena_cmd ./experiments/all_experiment.sh`
+
+The logs are stored on each experiment folder, you can check after each execution:
+- Efficiency Experiment: `pena_cmd ./experiments/efficiency/logs/efficiency.log`
+- Accuracy Experiment: `pena_cmd ./experiments/accuracy/logs/accuracy.log`
+- Conflicts on Wordpress Experiment: `pena_cmd ./experiments/wp_experiment/logs/wp_experiment.log`
+
+#### To check logs and conflicts found in our experiment, check the [artifacts page](https://github.com/pag-tools/pena/tree/master/pena).
+
+### Removing PENA
+1. Get PENA CONTAINER_ID: `$ docker ps | grep pena`
+2. Stop PENA container and remove image: `$ docker stop PENA_ID && docker rmi PENA_ID`
