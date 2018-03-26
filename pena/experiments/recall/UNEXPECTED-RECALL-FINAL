@@ -1,0 +1,494 @@
+
+['accesspress-social-login-lite','buddypress']
+11:25:57 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/font-awesome.min.css?ver=3.2.8" id="fontawsome-css-css" media="all" rel="stylesheet" type="text/css"/>']
+11:25:57 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/font-awesome.min.css?ver=3.2.8" id="fontawsome-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['accesspress-social-login-lite','compact-wp-audio-player']
+11:26:23 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/font-awesome.min.css?ver=3.2.8" id="fontawsome-css-css" media="all" rel="stylesheet" type="text/css"/>']
+11:26:23 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/font-awesome.min.css?ver=3.2.8" id="fontawsome-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['accesspress-social-login-lite','cookie-law-info']
+11:26:50 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.3" id="cookielawinfo-style-css" media="all" rel="stylesheet" type="text/css"/>']
+11:26:50 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.3" id="cookielawinfo-style-css" media="all" rel="stylesheet" type="text/css">']
+
+['accesspress-social-login-lite','fast-velocity-minify']
+11:27:20 AM:INFO:run:Unexpected added: ['    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-8ee72146-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/header-cda11314-0.min.js" type="text/javascript">']
+11:27:20 AM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/accesspress-social-login-lite/js/frontend.js?ver=3.2.8" type="text/javascript">', '    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/font-awesome.min.css?ver=3.2.8" id="fontawsome-css-css" media="all" rel="stylesheet" type="text/css">', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.2.8" id="apsl-frontend-css-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/header-cb050ccd-0.min.js" type="text/javascript">', '    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-cf7314da-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>']
+
+['accesspress-social-login-lite','meteor-slides']
+11:27:50 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0" id="meteor-slides-css" media="all" rel="stylesheet" type="text/css"/>']
+11:27:50 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0" id="meteor-slides-css" media="all" rel="stylesheet" type="text/css">']
+
+['accesspress-social-login-lite','responsive-lightbox-lite']
+11:28:21 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css"/>']
+11:28:21 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['accesspress-social-login-lite','woocommerce-products-filter']
+11:28:51 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=4.6" id="woof-css" media="all" rel="stylesheet" type="text/css"/>']
+11:28:51 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=4.6" id="woof-css" media="all" rel="stylesheet" type="text/css">']
+
+['addon-elements-for-elementor-page-builder','compact-wp-audio-player']
+11:29:19 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.css?ver=4.6" id="eae-css-css" media="all" rel="stylesheet" type="text/css"/>']
+11:29:19 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.css?ver=4.6" id="eae-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['addon-elements-for-elementor-page-builder','mappress-google-maps-for-wordpress']
+11:29:48 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.46.8" id="mappress-css" media="all" rel="stylesheet" type="text/css"/>']
+11:29:48 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.46.8" id="mappress-css" media="all" rel="stylesheet" type="text/css">']
+
+['addon-elements-for-elementor-page-builder','popups']
+11:30:20 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/popups/public/assets/css/public.css?ver=1.7.3" id="spu-public-css-css" media="all" rel="stylesheet" type="text/css"/>']
+11:30:20 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/popups/public/assets/css/public.css?ver=1.7.3" id="spu-public-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['addon-elements-for-elementor-page-builder','responsive-lightbox-lite']
+11:30:48 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css"/>']
+11:30:48 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['addon-elements-for-elementor-page-builder','table-of-contents-plus']
+11:31:15 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css"/>']
+11:31:15 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css">']
+
+['addon-elements-for-elementor-page-builder','wordpress-simple-paypal-shopping-cart']
+11:31:44 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.6" id="wspsc-style-css" media="all" rel="stylesheet" type="text/css"/>']
+11:31:44 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.6" id="wspsc-style-css" media="all" rel="stylesheet" type="text/css">']
+
+['addons-for-visual-composer','asesor-cookies-para-la-ley-en-espana']
+11:32:15 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/addons-for-visual-composer/includes/addons/accordion/css/style.css?ver=1.6.1" id="lvca-accordion-css" media="all" rel="stylesheet" type="text/css"/>']
+11:32:15 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/addons-for-visual-composer/includes/addons/accordion/css/style.css?ver=1.6.1" id="lvca-accordion-css" media="all" rel="stylesheet" type="text/css">']
+
+['addons-for-visual-composer','event-calendar-wd']
+11:32:43 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.5_5a1ea228f1982" id="ecwd-popup-style-css" media="all" rel="stylesheet" type="text/css"/>']
+11:32:43 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.5_5a1ea228f1982" id="ecwd-popup-style-css" media="all" rel="stylesheet" type="text/css">']
+
+['addons-for-visual-composer','kimili-flash-embed']
+11:33:51 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/addons-for-visual-composer/assets/css/slick.css?ver=1.6.1" id="lvca-slick-css" media="all" rel="stylesheet" type="text/css">']
+11:33:51 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css">', '    -<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/addons-for-visual-composer/assets/css/slick.css?ver=1.6.1" id="lvca-slick-css" media="all" rel="stylesheet" type="text/css"/>']
+
+['addons-for-visual-composer','woocommerce-products-filter']
+11:34:40 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/addons-for-visual-composer/includes/addons/accordion/css/style.css?ver=1.6.1" id="lvca-accordion-css" media="all" rel="stylesheet" type="text/css"/>']
+11:34:40 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/addons-for-visual-composer/includes/addons/accordion/css/style.css?ver=1.6.1" id="lvca-accordion-css" media="all" rel="stylesheet" type="text/css">']
+
+['asesor-cookies-para-la-ley-en-espana','popups']
+11:35:13 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/popups/public/assets/css/public.css?ver=1.7.3" id="spu-public-css-css" media="all" rel="stylesheet" type="text/css"/>']
+11:35:13 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/popups/public/assets/css/public.css?ver=1.7.3" id="spu-public-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['asesor-cookies-para-la-ley-en-espana','sportspress']
+11:43:04 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>']
+11:43:04 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css">']
+
+['asesor-cookies-para-la-ley-en-espana','wp-simple-booking-calendar']
+11:43:31 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/estilos.css?ver=4.6" id="front-estilos-css" media="all" rel="stylesheet" type="text/css"/>']
+11:43:31 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/estilos.css?ver=4.6" id="front-estilos-css" media="all" rel="stylesheet" type="text/css">']
+
+['better-font-awesome','cookie-law-info']
+11:44:01 AM:INFO:run:Unexpected removed: ['    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    -<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css">', '    -<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css">']
+
+['better-font-awesome','if-menu']
+11:44:28 AM:INFO:run:Unexpected removed: ['    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    -<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css">', '    -<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css">']
+
+['better-font-awesome','popups']
+11:45:01 AM:INFO:run:Unexpected removed: ['    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    -<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css">', '    -<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css">']
+
+['better-font-awesome','wordpress-simple-paypal-shopping-cart']
+11:45:28 AM:INFO:run:Unexpected removed: ['    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    -<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css">', '    -<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css">']
+
+['buddypress','contact-form-7']
+11:45:59 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>']
+11:45:59 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css">']
+
+['buddypress','easy-facebook-likebox']
+11:46:28 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=4.3.2" id="easy-facebook-likebox-plugin-styles-css" media="all" rel="stylesheet" type="text/css"/>']
+11:46:28 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=4.3.2" id="easy-facebook-likebox-plugin-styles-css" media="all" rel="stylesheet" type="text/css">']
+
+['buddypress','event-calendar-wd']
+11:46:57 AM:INFO:run:Unexpected added: ['    +<body class="home-page bp-legacy home blog admin-bar no-customize-support ecwd-theme-twentysixteen hfeed no-js">', '    +<link href="http://localhost:8081/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.5_5a1ea228f1982" id="ecwd-popup-style-css" media="all" rel="stylesheet" type="text/css"/>']
+11:46:57 AM:INFO:run:Unexpected removed: ['    +<body class="home-page bp-legacy home blog admin-bar no-customize-support hfeed no-js">', '    +<link href="http://localhost:8081/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.5_5a1ea228f1982" id="ecwd-popup-style-css" media="all" rel="stylesheet" type="text/css">', '    +<body class="home blog ecwd-theme-twentysixteen hfeed">']
+
+['buddypress','if-menu']
+11:47:27 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=4.6" id="if-menu-site-css-css" media="all" rel="stylesheet" type="text/css"/>']
+11:47:27 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=4.6" id="if-menu-site-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['buddypress','woocommerce']
+11:48:11 AM:INFO:run:Unexpected added: ['    +<body class="home-page bp-legacy home blog hfeed no-js">', '    +<link href="//localhost:8081/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.2" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.min.css?ver=2.9.1" id="bp-legacy-css-css" media="screen" rel="stylesheet" type="text/css">']
+11:48:11 AM:INFO:run:Unexpected removed: ['    +</form>', '    +<li id="wp-admin-bar-wporg">', '    +<a class="ab-item" href="https://wordpress.org/">', '    +@media screen and ( max-width: 782px ) {', '    +Log in', '    +<a aria-haspopup="true" class="ab-item" href="http://localhost:8081/wp-admin/about.php">', '    +<div aria-label="Toolbar" class="quicklinks" id="wp-toolbar" role="navigation" tabindex="0">', '    +<li id="wp-admin-bar-bp-login">', '    +}', '    +<div class="ab-item ab-empty-item" tabindex="-1">', '    +<link href="http://localhost:8081/wp-content/plugins/buddypress/bp-core/css/admin-bar.min.css?ver=2.9.1" id="bp-admin-bar-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="//localhost:8081/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.2" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css">', '    +<input class="adminbar-button" type="submit" value="Search"/>', '    +<link href="http://localhost:8081/wp-includes/css/admin-bar.min.css?ver=4.6" id="admin-bar-css" media="all" rel="stylesheet" type="text/css"/>', '    +<style media="print" type="text/css">', '    +Search', '    +<ul class="ab-top-secondary ab-top-menu" id="wp-admin-bar-top-secondary">', '    +Support Forums', '    +<li id="wp-admin-bar-documentation">', '    +<li class="admin-bar-search" id="wp-admin-bar-search">', '    +<ul class="ab-sub-secondary ab-submenu" id="wp-admin-bar-wp-logo-external">', '    +<link href="http://localhost:8081/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.min.css?ver=2.9.1" id="bp-legacy-css-css" media="screen" rel="stylesheet" type="text/css"/>', '    +<ul class="ab-top-menu" id="wp-admin-bar-root-default">', '    +<body class="home-page bp-legacy home blog admin-bar no-customize-support hfeed no-js">', '    +<a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">', '    +Documentation', '    +<span class="ab-icon">', '    +</a>', '    +</label>', '    +* html body { margin-top: 32px !important; }', '    +</li>', '    +#wpadminbar { display:none; }', '    +<script src="http://localhost:8081/wp-includes/js/admin-bar.min.js?ver=4.6" type="text/javascript">', '    +<li id="wp-admin-bar-feedback">', '    +html { margin-top: 32px !important; }', '    +About WordPress', '    +<a class="ab-item" href="https://codex.wordpress.org/">', '    +<div class="nojq nojs" id="wpadminbar">', '    +<div class="ab-sub-wrapper">', '    +html { margin-top: 46px !important; }', '    +<span class="screen-reader-text">', '    +* html body { margin-top: 46px !important; }', '    +<label class="screen-reader-text" for="adminbar-search">', '    +<input class="adminbar-input" id="adminbar-search" maxlength="150" name="s" type="text" value=""/>', '    +<style media="screen" type="text/css">', '    +</span>', '    +<form action="http://localhost:8081/" id="adminbarsearch" method="get">', '    +</ul>', '    +<a class="ab-item" href="https://wordpress.org/support/">', '    +Skip to toolbar', '    +WordPress.org', '    +<li class="menupop" id="wp-admin-bar-wp-logo">', '    +<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">', '    +<a class="ab-item" href="http://localhost:8081/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8081%2F">', '    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css">', '    +</div>', '    +<li id="wp-admin-bar-support-forums">', '    +Feedback']
+
+['buddypress','wordpress-simple-paypal-shopping-cart']
+11:48:39 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.6" id="wspsc-style-css" media="all" rel="stylesheet" type="text/css"/>']
+11:48:39 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.6" id="wspsc-style-css" media="all" rel="stylesheet" type="text/css">']
+
+['buddypress','wysija-newsletters']
+11:49:07 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>']
+11:49:07 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css">']
+
+['cforms2','fast-velocity-minify']
+11:49:37 AM:INFO:run:Unexpected added: ['    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/header-301a0f89-0.min.js" type="text/javascript">', '    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-81c01796-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>']
+11:49:37 AM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/cforms2/styling/cforms2012.css?ver=14.14" id="cforms2-css" media="all" rel="stylesheet" type="text/css">', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/cforms2/js/cforms.js?ver=14.14" type="text/javascript">', '    +/* ]]> */', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/header-cb050ccd-0.min.js" type="text/javascript">', '    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-cf7314da-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script type="text/javascript">', '    -<script type="text/javascript">', '    +/* <![CDATA[ */']
+
+['cforms2','google-maps-builder']
+11:50:05 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/includes/libraries/map-icons/css/map-icons.css?ver=2.1.2" id="google-maps-builder-map-icons-css" media="all" rel="stylesheet" type="text/css"/>']
+11:50:05 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/includes/libraries/map-icons/css/map-icons.css?ver=2.1.2" id="google-maps-builder-map-icons-css" media="all" rel="stylesheet" type="text/css">']
+
+['cforms2','pirate-forms']
+11:50:33 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/pirate-forms/public/css/front.css?ver=2.2.0" id="pirate_forms_front_styles-css" media="all" rel="stylesheet" type="text/css"/>']
+11:50:33 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/pirate-forms/public/css/front.css?ver=2.2.0" id="pirate_forms_front_styles-css" media="all" rel="stylesheet" type="text/css">']
+
+['cherry-testi','kingcomposer']
+11:51:01 AM:INFO:run:Unexpected added: ['    +var wp_load_style = ["cherry-testi.css","twentysixteen-fonts.css","genericons.css","twentysixteen-style.css","twentysixteen-ie.css","twentysixteen-ie8.css","twentysixteen-ie7.css","kc-general.css","kc-animate.css","kc-icon-1.css"];', '    +var wp_load_script = ["cherry-js-core.js","twentysixteen-html5.js","twentysixteen-skip-link-focus-fix.js","twentysixteen-script.js","kc-front-scripts.js"];']
+11:51:01 AM:INFO:run:Unexpected removed: ['    +var wp_load_script = ["cherry-js-core.js","twentysixteen-html5.js","twentysixteen-skip-link-focus-fix.js","twentysixteen-script.js"];', '    +var wp_load_style = ["cherry-testi.css","twentysixteen-fonts.css","genericons.css","twentysixteen-style.css","twentysixteen-ie.css","twentysixteen-ie8.css","twentysixteen-ie7.css"];']
+
+['cherry-testi','livemesh-siteorigin-widgets']
+11:51:29 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/lsow-frontend.css?ver=1.5.3" id="lsow-frontend-styles-css" media="all" rel="stylesheet" type="text/css"/>', '    +var wp_load_script = ["cherry-js-core.js","lsow-modernizr.js","lsow-waypoints.js","lsow-frontend-scripts.js","twentysixteen-html5.js","twentysixteen-skip-link-focus-fix.js","twentysixteen-script.js"];', '    +var wp_load_style = ["cherry-testi.css","lsow-frontend-styles.css","lsow-icomoon-styles.css","twentysixteen-fonts.css","genericons.css","twentysixteen-style.css","twentysixteen-ie.css","twentysixteen-ie8.css","twentysixteen-ie7.css"];']
+11:51:29 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/lsow-frontend.css?ver=1.5.3" id="lsow-frontend-styles-css" media="all" rel="stylesheet" type="text/css">', '    +var wp_load_script = ["cherry-js-core.js","twentysixteen-html5.js","twentysixteen-skip-link-focus-fix.js","twentysixteen-script.js"];', '    +var wp_load_style = ["cherry-testi.css","twentysixteen-fonts.css","genericons.css","twentysixteen-style.css","twentysixteen-ie.css","twentysixteen-ie8.css","twentysixteen-ie7.css"];']
+
+['cherry-testi','social-media-widget']
+11:52:02 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css"/>', '    +var wp_load_style = ["cherry-testi.css","social-widget.css","twentysixteen-fonts.css","genericons.css","twentysixteen-style.css","twentysixteen-ie.css","twentysixteen-ie8.css","twentysixteen-ie7.css"];']
+11:52:02 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css">', '    +var wp_load_style = ["cherry-testi.css","twentysixteen-fonts.css","genericons.css","twentysixteen-style.css","twentysixteen-ie.css","twentysixteen-ie8.css","twentysixteen-ie7.css"];']
+
+['column-shortcodes','custom-facebook-feed']
+11:52:37 AM:INFO:run:Unexpected added: ['    +<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0" id="cff-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>']
+11:52:37 AM:INFO:run:Unexpected removed: ['    +<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0" id="cff-font-awesome-css" media="all" rel="stylesheet" type="text/css">']
+
+['column-shortcodes','easy-bootstrap-shortcodes']
+11:53:18 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0" id="cpsh-shortcodes-css" media="all" rel="stylesheet" type="text/css"/>']
+11:53:18 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0" id="cpsh-shortcodes-css" media="all" rel="stylesheet" type="text/css">']
+
+['column-shortcodes','easy-facebook-likebox']
+11:53:48 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=4.3.2" id="easy-facebook-likebox-plugin-styles-css" media="all" rel="stylesheet" type="text/css"/>']
+11:53:48 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=4.3.2" id="easy-facebook-likebox-plugin-styles-css" media="all" rel="stylesheet" type="text/css">']
+
+['column-shortcodes','foobox-image-lightbox']
+11:54:25 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=1.2.27" id="foobox-free-min-css" media="all" rel="stylesheet" type="text/css"/>']
+11:54:25 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=1.2.27" id="foobox-free-min-css" media="all" rel="stylesheet" type="text/css">']
+
+['column-shortcodes','table-of-contents-plus']
+11:54:53 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css"/>']
+11:54:53 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css">']
+
+['column-shortcodes','wp-performance-score-booster']
+11:55:25 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css" id="cpsh-shortcodes-css" media="all" rel="stylesheet" type="text/css">']
+11:55:25 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0" id="cpsh-shortcodes-css" media="all" rel="stylesheet" type="text/css">']
+
+['compact-wp-audio-player','document-gallery']
+11:56:34 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/document-gallery/assets/css/style.min.css?ver=4.4.2" id="document-gallery-css" media="all" rel="stylesheet" type="text/css"/>']
+11:56:34 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/document-gallery/assets/css/style.min.css?ver=4.4.2" id="document-gallery-css" media="all" rel="stylesheet" type="text/css">']
+
+['compact-wp-audio-player','post-grid']
+11:57:07 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=4.6" id="post_grid_style-css" media="all" rel="stylesheet" type="text/css"/>']
+11:57:07 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=4.6" id="post_grid_style-css" media="all" rel="stylesheet" type="text/css">']
+
+['compact-wp-audio-player','table-of-contents-plus']
+11:57:35 AM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css"/>']
+11:57:35 AM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css">']
+
+['compact-wp-audio-player','the-events-calendar']
+12:00:34 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=4.6" id="scap.flashblock-css" media="all" rel="stylesheet" type="text/css"/>']
+12:00:34 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=4.6" id="scap.flashblock-css" media="all" rel="stylesheet" type="text/css">']
+
+['compact-wp-audio-player','wp-performance-score-booster']
+12:01:06 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/compact-wp-audio-player/css/flashblock.css" id="scap.flashblock-css" media="all" rel="stylesheet" type="text/css">', '    +<script src="http://localhost:8081/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js" type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/compact-wp-audio-player/css/player.css" id="scap.player-css" media="all" rel="stylesheet" type="text/css"/>']
+12:01:06 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=4.6" id="scap.flashblock-css" media="all" rel="stylesheet" type="text/css">', '    +<link href="http://localhost:8081/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=4.6" id="scap.player-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="http://localhost:8081/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js?ver=4.6" type="text/javascript">']
+
+['contact-form-7','pirate-forms']
+12:01:33 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/pirate-forms/public/css/front.css?ver=2.2.0" id="pirate_forms_front_styles-css" media="all" rel="stylesheet" type="text/css"/>']
+12:01:33 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/pirate-forms/public/css/front.css?ver=2.2.0" id="pirate_forms_front_styles-css" media="all" rel="stylesheet" type="text/css">']
+
+['contact-form-7','woocommerce-products-filter']
+12:02:00 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=4.6" id="woof-css" media="all" rel="stylesheet" type="text/css"/>']
+12:02:00 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=4.6" id="woof-css" media="all" rel="stylesheet" type="text/css">']
+
+['contact-form-7','wp-lightbox-2']
+12:02:29 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4" id="wp-lightbox-2.min.css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:02:29 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4" id="wp-lightbox-2.min.css-css" media="all" rel="stylesheet" type="text/css">']
+
+['contact-form-7','wp-simple-booking-calendar']
+12:02:57 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>']
+12:02:57 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css">']
+
+['contact-form-add','disable-emojis']
+12:03:25 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-add/public/assets/css/form-style.css?ver=4.6" id="smuzform-public-form-render-css" media="all" rel="stylesheet" type="text/css"/>']
+12:03:25 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-add/public/assets/css/form-style.css?ver=4.6" id="smuzform-public-form-render-css" media="all" rel="stylesheet" type="text/css">']
+
+['contact-form-add','document-gallery']
+12:04:04 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/document-gallery/assets/css/style.min.css?ver=4.4.2" id="document-gallery-css" media="all" rel="stylesheet" type="text/css"/>']
+12:04:04 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/document-gallery/assets/css/style.min.css?ver=4.4.2" id="document-gallery-css" media="all" rel="stylesheet" type="text/css">']
+
+['contact-form-add','recent-facebook-posts']
+12:04:33 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/recent-facebook-posts/assets/css/default.min.css?ver=2.0.11" id="recent-facebook-posts-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:04:33 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/recent-facebook-posts/assets/css/default.min.css?ver=2.0.11" id="recent-facebook-posts-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['contact-form-add','testimonials-widget']
+12:05:03 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-add/public/assets/css/form-style.css?ver=4.6" id="smuzform-public-form-render-css" media="all" rel="stylesheet" type="text/css"/>']
+12:05:03 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-add/public/assets/css/form-style.css?ver=4.6" id="smuzform-public-form-render-css" media="all" rel="stylesheet" type="text/css">']
+
+['contact-form-add','wysija-newsletters']
+12:05:33 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-add/public/assets/css/form-style.css?ver=4.6" id="smuzform-public-form-render-css" media="all" rel="stylesheet" type="text/css"/>']
+12:05:33 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/contact-form-add/public/assets/css/form-style.css?ver=4.6" id="smuzform-public-form-render-css" media="all" rel="stylesheet" type="text/css">']
+
+['cookie-law-info','post-grid']
+12:06:04 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=4.6" id="post_grid_style-css" media="all" rel="stylesheet" type="text/css"/>']
+12:06:04 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=4.6" id="post_grid_style-css" media="all" rel="stylesheet" type="text/css">']
+
+['cookie-law-info','recent-facebook-posts']
+12:06:34 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/recent-facebook-posts/assets/css/default.min.css?ver=2.0.11" id="recent-facebook-posts-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:06:34 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/recent-facebook-posts/assets/css/default.min.css?ver=2.0.11" id="recent-facebook-posts-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['cookie-law-info','seo-wordpress']
+12:07:01 PM:INFO:run:Unexpected added: ['    +<a class="cli-plugin-main-link" href="http://localhost:8081/" id="CONSTANT_OPEN_URL" target="_blank">']
+12:07:01 PM:INFO:run:Unexpected removed: ['    +<a class="cli-plugin-main-link" href="http://localhost:8081" id="CONSTANT_OPEN_URL" target="_blank">']
+
+['cookie-law-info','social-media-widget']
+12:07:30 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css"/>']
+12:07:30 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css">']
+
+['custom-facebook-feed','give']
+12:08:03 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/give/templates/give.min.css?ver=1.8.13" id="give-styles-css" media="all" rel="stylesheet" type="text/css"/>']
+12:08:03 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/give/templates/give.min.css?ver=1.8.13" id="give-styles-css" media="all" rel="stylesheet" type="text/css">']
+
+['custom-facebook-feed','jquery-colorbox']
+12:08:33 PM:INFO:run:Unexpected added: ['    +<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0" id="cff-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>']
+12:08:33 PM:INFO:run:Unexpected removed: ['    +<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0" id="cff-font-awesome-css" media="all" rel="stylesheet" type="text/css">']
+
+['custom-facebook-feed','testimonials-widget']
+12:09:07 PM:INFO:run:Unexpected added: ['    +<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0" id="cff-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.4.6" id="cff-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="//localhost:8081/wp-content/plugins/testimonials-widget/assets/css/testimonials-widget.css?ver=4.6" id="Axl_Testimonials_Widget-css" media="all" rel="stylesheet" type="text/css">']
+12:09:07 PM:INFO:run:Unexpected removed: ['    +<link href="//localhost:8081/wp-content/plugins/testimonials-widget/assets/css/testimonials-widget.css?ver=4.6" id="Axl_Testimonials_Widget-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0" id="cff-font-awesome-css" media="all" rel="stylesheet" type="text/css">', '    +<link href="http://localhost:8081/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.4.6" id="cff-css" media="all" rel="stylesheet" type="text/css">']
+
+['disable-emojis','the-events-calendar']
+12:13:02 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081?post_type=tribe_events&amp;ical=1" rel="alternate" title="Test Page » iCal Feed" type="text/calendar"/>']
+12:13:02 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081?post_type=tribe_events&amp;ical=1" rel="alternate" title="Test Page » iCal Feed" type="text/calendar">']
+
+['disable-emojis','wordpress-popular-posts']
+12:13:31 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.0.0" id="wordpress-popular-posts-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:13:31 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.0.0" id="wordpress-popular-posts-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['document-gallery','mappress-google-maps-for-wordpress']
+12:14:31 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.46.8" id="mappress-css" media="all" rel="stylesheet" type="text/css"/>']
+12:14:31 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.46.8" id="mappress-css" media="all" rel="stylesheet" type="text/css">']
+
+['document-gallery','templatesnext-toolkit']
+12:15:03 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1" id="owl-carousel-css" media="all" rel="stylesheet" type="text/css"/>']
+12:15:03 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1" id="owl-carousel-css" media="all" rel="stylesheet" type="text/css">']
+
+['easy-bootstrap-shortcodes','jquery-colorbox']
+12:15:51 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/easy-bootstrap-shortcodes/styles/bootstrap.min.css?ver=4.6" id="bootstrap-css" media="all" rel="stylesheet" type="text/css"/>']
+12:15:51 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/easy-bootstrap-shortcodes/styles/bootstrap.min.css?ver=4.6" id="bootstrap-css" media="all" rel="stylesheet" type="text/css">']
+
+['easy-bootstrap-shortcodes','responsive-lightbox-lite']
+12:16:34 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:16:34 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['easy-bootstrap-shortcodes','table-of-contents-plus']
+12:17:19 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css"/>']
+12:17:19 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css">']
+
+['easy-bootstrap-shortcodes','wp-spamshield']
+12:18:14 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">']
+
+['easy-digital-downloads','google-maps-builder']
+12:18:46 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/includes/libraries/map-icons/css/map-icons.css?ver=2.1.2" id="google-maps-builder-map-icons-css" media="all" rel="stylesheet" type="text/css"/>']
+12:18:46 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/includes/libraries/map-icons/css/map-icons.css?ver=2.1.2" id="google-maps-builder-map-icons-css" media="all" rel="stylesheet" type="text/css">']
+
+['easy-digital-downloads','popups']
+12:19:22 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/popups/public/assets/css/public.css?ver=1.7.3" id="spu-public-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:19:22 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/popups/public/assets/css/public.css?ver=1.7.3" id="spu-public-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['easy-digital-downloads','wp-pagenavi']
+12:19:53 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" id="wp-pagenavi-css" media="all" rel="stylesheet" type="text/css"/>']
+12:19:53 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" id="wp-pagenavi-css" media="all" rel="stylesheet" type="text/css">']
+
+['easy-facebook-likebox','recent-facebook-posts']
+12:20:22 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/recent-facebook-posts/assets/css/default.min.css?ver=2.0.11" id="recent-facebook-posts-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:20:22 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/recent-facebook-posts/assets/css/default.min.css?ver=2.0.11" id="recent-facebook-posts-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['easy-facebook-likebox','wp-spamshield']
+12:21:00 PM:INFO:run:Unexpected added: ['    +var public_ajax = {"ajax_url":"http:\\/\\/localhost\\/wp-admin\\/admin-ajax.php"};']
+12:21:00 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +var public_ajax = {"ajax_url":"http:\\/\\/localhost:8081\\/wp-admin\\/admin-ajax.php"};', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">']
+
+['event-calendar-wd','foobox-image-lightbox']
+12:21:35 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.5_5a1ea228f1982" id="ecwd-popup-style-css" media="all" rel="stylesheet" type="text/css"/>']
+12:21:35 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.5_5a1ea228f1982" id="ecwd-popup-style-css" media="all" rel="stylesheet" type="text/css">']
+
+['event-calendar-wd','wp-to-twitter']
+12:22:05 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.5_5a1ea228f1982" id="ecwd-popup-style-css" media="all" rel="stylesheet" type="text/css"/>']
+12:22:05 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.5_5a1ea228f1982" id="ecwd-popup-style-css" media="all" rel="stylesheet" type="text/css">']
+
+['event-tickets','kingcomposer']
+12:22:41 PM:INFO:run:Unexpected added: ['    +<body class="home blog kc-css-system tribe-no-js hfeed">']
+12:22:41 PM:INFO:run:Unexpected removed: ['    +<body class="home blog tribe-no-js hfeed">', '    +<body class="home blog kc-css-system hfeed">']
+
+['facebook-thumb-fixer','give']
+12:23:18 PM:INFO:run:Unexpected added: ['    +<meta content="Give v1.8.13" name="generator"/>']
+12:23:18 PM:INFO:run:Unexpected removed: ['    +<meta content="Give v1.8.13" name="generator">']
+
+['facebook-thumb-fixer','only-tweet-like-share-and-google-1']
+12:23:51 PM:INFO:run:Unexpected added: ['    +<meta content="article" property="og:type"/>']
+12:23:51 PM:INFO:run:Unexpected removed: ['    +<meta content="article" property="og:type">']
+
+['fast-velocity-minify','jquery-colorbox']
+12:24:21 PM:INFO:run:Unexpected added: ['    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-65161ab3-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/header-7bd116cb-0.min.js" type="text/javascript">']
+12:24:21 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="http://localhost:8081/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6.2" type="text/javascript">', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/jquery-colorbox/themes/theme1/colorbox.css?ver=4.6.2" id="colorbox-theme1-css" media="screen" rel="stylesheet" type="text/css">', '    +/* ]]> */', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/header-cb050ccd-0.min.js" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.4.33" type="text/javascript">', '    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-cf7314da-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script type="text/javascript">', '    -<script type="text/javascript">', '    +/* <![CDATA[ */']
+
+['fast-velocity-minify','kimili-flash-embed']
+12:24:53 PM:INFO:run:Unexpected added: ['    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-cf7314da-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css">', '    +<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript">']
+12:24:53 PM:INFO:run:Unexpected removed: ['    +}', '    +<link href="http://localhost:8081/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1" id="genericons-css" media="all" rel="stylesheet" type="text/css">', '    +<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?ver=2.2" type="text/javascript">', '    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-cf7314da-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>', '    -}']
+
+['fast-velocity-minify','livemesh-siteorigin-widgets']
+12:25:24 PM:INFO:run:Unexpected added: ['    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/footer-cd0d2cdd-0.min.js" type="text/javascript">', '    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-d2e824b4-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>']
+12:25:24 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/lsow-frontend.min.js?ver=1.5.3" type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/icomoon.css?ver=1.5.3" id="lsow-icomoon-styles-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/footer-02ba18aa-0.min.js" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/jquery.waypoints.min.js?ver=1.5.3" type="text/javascript">', '    +/* ]]> */', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/modernizr-custom.min.js?ver=1.5.3" type="text/javascript">', '    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-cf7314da-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/lsow-frontend.css?ver=1.5.3" id="lsow-frontend-styles-css" media="all" rel="stylesheet" type="text/css">', '    +/* <![CDATA[ */']
+
+['fast-velocity-minify','wp-lightbox-2']
+12:25:55 PM:INFO:run:Unexpected added: ['    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-fe151c97-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/header-84e60a2d-0.min.js" type="text/javascript">', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/footer-d9fc228c-0.min.js" type="text/javascript">']
+12:25:55 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<link href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext" id="twentysixteen-fonts-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4" id="wp-lightbox-2.min.css-css" media="all" rel="stylesheet" type="text/css">', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">', '    +/* ]]> */', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/footer-02ba18aa-0.min.js" type="text/javascript">', '    +<script src="//localhost:8081/wp-content/uploads/fvm/cache/header-cb050ccd-0.min.js" type="text/javascript">', '    +<link href="//localhost:8081/wp-content/uploads/fvm/cache/header-cf7314da-0.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="http://localhost:8081/wp-content/plugins/wp-lightbox-2/wp-lightbox-2.min.js?ver=1.3.4.1" type="text/javascript">', '    +<script type="text/javascript">', '    +/* <![CDATA[ */']
+
+['foobox-image-lightbox','templatesnext-toolkit']
+12:26:33 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1" id="owl-carousel-css" media="all" rel="stylesheet" type="text/css"/>']
+12:26:33 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1" id="owl-carousel-css" media="all" rel="stylesheet" type="text/css">']
+
+['foobox-image-lightbox','the-events-calendar']
+12:30:12 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=1.2.27" id="foobox-free-min-css" media="all" rel="stylesheet" type="text/css"/>']
+12:30:12 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=1.2.27" id="foobox-free-min-css" media="all" rel="stylesheet" type="text/css">']
+
+['give','use-google-libraries']
+12:30:46 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">']
+
+['google-maps-builder','woocommerce-multilingual']
+12:31:50 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/woocommerce-multilingual/res/css/management.css?ver=4.2.4" id="wpml-wcml-css" media="all" rel="stylesheet" type="text/css">', '    +<link href="http://localhost:8081/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/assets/css/google-maps-builder.min.css?ver=2.1.2" id="google-maps-builder-plugin-styles-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/includes/libraries/map-icons/css/map-icons.css?ver=2.1.2" id="google-maps-builder-map-icons-css" media="all" rel="stylesheet" type="text/css"/>']
+12:31:50 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/woocommerce-multilingual/res/css/management.css?ver=4.2.4" id="wpml-wcml-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/assets/css/google-maps-builder.min.css?ver=2.1.2" id="google-maps-builder-plugin-styles-css" media="all" rel="stylesheet" type="text/css">', '    +<link href="http://localhost:8081/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/includes/libraries/map-icons/css/map-icons.css?ver=2.1.2" id="google-maps-builder-map-icons-css" media="all" rel="stylesheet" type="text/css">']
+
+['grand-media','wp-performance-score-booster']
+12:32:26 PM:INFO:run:Unexpected added: ['    +<script src="http://localhost:8081/wp-content/plugins/grand-media/assets/gmedia.global.front.js" type="text/javascript">']
+12:32:26 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-content/plugins/grand-media/assets/gmedia.global.front.js?ver=1.9.16" type="text/javascript">']
+
+['if-menu','post-grid']
+12:33:23 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=4.6" id="if-menu-site-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:33:23 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=4.6" id="if-menu-site-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['if-menu','wp-simple-booking-calendar']
+12:33:50 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=4.6" id="if-menu-site-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:33:50 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=4.6" id="if-menu-site-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['jquery-colorbox','woocommerce']
+12:34:45 PM:INFO:run:Unexpected added: ['    +<link href="//localhost:8081/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.2" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css"/>']
+12:34:45 PM:INFO:run:Unexpected removed: ['    +<link href="//localhost:8081/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.2" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css">']
+
+['livemesh-siteorigin-widgets','social-media-widget']
+12:35:16 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css"/>']
+12:35:16 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css">']
+
+['livemesh-siteorigin-widgets','wordpress-simple-paypal-shopping-cart']
+12:35:47 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.6" id="wspsc-style-css" media="all" rel="stylesheet" type="text/css"/>']
+12:35:47 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.6" id="wspsc-style-css" media="all" rel="stylesheet" type="text/css">']
+
+['livemesh-siteorigin-widgets','wp-performance-score-booster']
+12:37:11 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/icomoon.css" id="lsow-icomoon-styles-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/lsow-frontend.css" id="lsow-frontend-styles-css" media="all" rel="stylesheet" type="text/css">', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/modernizr-custom.min.js" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/lsow-frontend.min.js" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/jquery.waypoints.min.js" type="text/javascript">']
+12:37:11 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/lsow-frontend.min.js?ver=1.5.3" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/jquery.waypoints.min.js?ver=1.5.3" type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/icomoon.css?ver=1.5.3" id="lsow-icomoon-styles-css" media="all" rel="stylesheet" type="text/css"/>', '    +<script src="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/modernizr-custom.min.js?ver=1.5.3" type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/lsow-frontend.css?ver=1.5.3" id="lsow-frontend-styles-css" media="all" rel="stylesheet" type="text/css">']
+
+['livemesh-siteorigin-widgets','wysija-newsletters']
+12:38:09 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/lsow-frontend.css?ver=1.5.3" id="lsow-frontend-styles-css" media="all" rel="stylesheet" type="text/css"/>']
+12:38:09 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/livemesh-siteorigin-widgets/assets/css/lsow-frontend.css?ver=1.5.3" id="lsow-frontend-styles-css" media="all" rel="stylesheet" type="text/css">']
+
+['login-sidebar-widget','meteor-slides']
+12:38:43 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0" id="meteor-slides-css" media="all" rel="stylesheet" type="text/css"/>']
+12:38:43 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0" id="meteor-slides-css" media="all" rel="stylesheet" type="text/css">']
+
+['login-sidebar-widget','wordpress-popular-posts']
+12:39:15 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.0.0" id="wordpress-popular-posts-css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:39:15 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.0.0" id="wordpress-popular-posts-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['login-sidebar-widget','wordpress-simple-paypal-shopping-cart']
+12:39:45 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.6" id="wspsc-style-css" media="all" rel="stylesheet" type="text/css"/>']
+12:39:45 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.6" id="wspsc-style-css" media="all" rel="stylesheet" type="text/css">']
+
+['login-sidebar-widget','wp-lightbox-2']
+12:40:15 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4" id="wp-lightbox-2.min.css-css" media="all" rel="stylesheet" type="text/css"/>']
+12:40:15 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4" id="wp-lightbox-2.min.css-css" media="all" rel="stylesheet" type="text/css">']
+
+['login-sidebar-widget','wp-simple-booking-calendar']
+12:40:51 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/login-sidebar-widget/style_login_widget.css?ver=4.6" id="style_login_widget-css" media="all" rel="stylesheet" type="text/css"/>']
+12:40:51 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/login-sidebar-widget/style_login_widget.css?ver=4.6" id="style_login_widget-css" media="all" rel="stylesheet" type="text/css">']
+
+['mappress-google-maps-for-wordpress','post-grid']
+12:41:27 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=4.6" id="post_grid_style-css" media="all" rel="stylesheet" type="text/css"/>']
+12:41:27 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=4.6" id="post_grid_style-css" media="all" rel="stylesheet" type="text/css">']
+
+['mappress-google-maps-for-wordpress','woocommerce-multilingual']
+12:42:02 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.46.8" id="mappress-css" media="all" rel="stylesheet" type="text/css"/>']
+12:42:02 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.46.8" id="mappress-css" media="all" rel="stylesheet" type="text/css">']
+
+['meteor-slides','sportspress']
+12:52:29 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>']
+12:52:29 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css">']
+
+['meteor-slides','wp-performance-score-booster']
+12:52:58 PM:INFO:run:Unexpected added: ['    +<script src="http://localhost:8081/wp-content/plugins/meteor-slides/js/jquery.metadata.v2.js" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/meteor-slides/js/jquery.cycle.all.js" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/meteor-slides/js/slideshow.js" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/meteor-slides/js/jquery.touchwipe.1.1.1.js" type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/meteor-slides/css/meteor-slides.css" id="meteor-slides-css" media="all" rel="stylesheet" type="text/css">']
+12:52:58 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/meteor-slides/js/jquery.cycle.all.js?ver=4.6" type="text/javascript">', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/meteor-slides/js/slideshow.js?ver=4.6" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/meteor-slides/js/jquery.metadata.v2.js?ver=4.6" type="text/javascript">', '    +<script src="http://localhost:8081/wp-content/plugins/meteor-slides/js/jquery.touchwipe.1.1.1.js?ver=4.6" type="text/javascript">', '    +<link href="http://localhost:8081/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0" id="meteor-slides-css" media="all" rel="stylesheet" type="text/css">']
+
+['nextgen-gallery','seo-wordpress']
+09:38:31 PM:INFO:run:Unexpected removed: ['    +Test Page | Just another WordPress site', '    -Test Page – Just another WordPress site']
+
+['nextgen-gallery','use-google-libraries']
+09:40:03 PM:INFO:run:Unexpected removed: ['    +<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript">', '    +<script type="text/javascript">', '    +try{jQuery.noConflict();}catch(e){};']
+
+['nextgen-gallery','wp-spamshield']
+09:40:59 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">', '    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">']
+
+['only-tweet-like-share-and-google-1','wp-spamshield']
+09:41:35 PM:INFO:run:Unexpected added: ['    +<meta content="http://localhost" property="og:url"/>']
+09:41:35 PM:INFO:run:Unexpected removed: ['    +<meta content="http://localhost:8081" property="og:url"/>']
+
+['pirate-forms','responsive-lightbox-lite']
+09:42:03 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css"/>']
+09:42:03 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['pirate-forms','wp-to-twitter']
+09:42:32 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.6" id="wpt-twitter-feed-css" media="all" rel="stylesheet" type="text/css"/>']
+09:42:32 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.6" id="wpt-twitter-feed-css" media="all" rel="stylesheet" type="text/css">']
+
+['pirate-forms','wysija-newsletters']
+09:42:58 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/pirate-forms/public/css/front.css?ver=2.2.0" id="pirate_forms_front_styles-css" media="all" rel="stylesheet" type="text/css"/>']
+09:42:58 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/pirate-forms/public/css/front.css?ver=2.2.0" id="pirate_forms_front_styles-css" media="all" rel="stylesheet" type="text/css">']
+
+['popups','use-google-libraries']
+09:43:26 PM:INFO:run:Unexpected removed: ['    +<script src="http://localhost:8081/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">']
+
+['post-grid','sportspress']
+09:46:33 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>']
+09:46:33 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css">']
+
+['recent-facebook-posts','wp-to-twitter']
+09:46:58 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/recent-facebook-posts/assets/css/default.min.css?ver=2.0.11" id="recent-facebook-posts-css-css" media="all" rel="stylesheet" type="text/css"/>']
+09:46:58 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/recent-facebook-posts/assets/css/default.min.css?ver=2.0.11" id="recent-facebook-posts-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['responsive-lightbox-lite','social-media-widget']
+09:47:23 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css"/>']
+09:47:23 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css">']
+
+['responsive-lightbox-lite','sportspress']
+09:51:05 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>']
+09:51:05 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-includes/css/dashicons.min.css?ver=4.6" id="dashicons-css" media="all" rel="stylesheet" type="text/css">']
+
+['responsive-lightbox-lite','table-of-contents-plus']
+09:51:30 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css"/>']
+09:51:30 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509" id="toc-screen-css" media="all" rel="stylesheet" type="text/css">']
+
+['responsive-lightbox-lite','the-events-calendar']
+09:53:03 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css"/>']
+09:53:03 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.6" id="responsive-lightbox-nivo_lightbox-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['social-media-widget','woocommerce-multilingual']
+09:53:29 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css"/>']
+09:53:29 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6" id="social-widget-css" media="all" rel="stylesheet" type="text/css">']
+
+['templatesnext-toolkit','woocommerce-multilingual']
+09:53:53 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1" id="owl-carousel-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>', '    +<link href="http://localhost:8081/wp-content/plugins/woocommerce-multilingual/res/css/management.css?ver=4.2.4" id="wpml-wcml-css" media="all" rel="stylesheet" type="text/css">']
+09:53:53 PM:INFO:run:Unexpected removed: ['    +<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css">', '    +<link href="http://localhost:8081/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1" id="owl-carousel-css" media="all" rel="stylesheet" type="text/css">', '    +<link href="http://localhost:8081/wp-content/plugins/woocommerce-multilingual/res/css/management.css?ver=4.2.4" id="wpml-wcml-css" media="all" rel="stylesheet" type="text/css"/>']
+
+['the-events-calendar','wysija-newsletters']
+09:55:45 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.12.1" id="validate-engine-css-css" media="all" rel="stylesheet" type="text/css"/>']
+09:55:45 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.12.1" id="validate-engine-css-css" media="all" rel="stylesheet" type="text/css">']
+
+['woocommerce','wysija-newsletters']
+09:56:34 PM:INFO:run:Unexpected added: ['    +<link href="//localhost:8081/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.2" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css"/>']
+09:56:34 PM:INFO:run:Unexpected removed: ['    +<link href="//localhost:8081/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.2" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css">']
+
+['wp-pagenavi','wp-performance-score-booster']
+09:57:53 PM:INFO:run:Unexpected added: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-pagenavi/pagenavi-css.css" id="wp-pagenavi-css" media="all" rel="stylesheet" type="text/css">']
+09:57:53 PM:INFO:run:Unexpected removed: ['    +<link href="http://localhost:8081/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" id="wp-pagenavi-css" media="all" rel="stylesheet" type="text/css">']

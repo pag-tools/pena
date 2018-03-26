@@ -20,7 +20,6 @@ class Analyser:
         return (self.unexpected_added, self.unexpected_removed, self.typeof_removal)
     
     def handle_closing_tag(self):
-        ''' handle lines that containns optional closing tag '''
         added, removed = list(self.unexpected_added), list(self.unexpected_removed)
         
         # check in distinct lists
@@ -60,15 +59,20 @@ class Analyser:
         self.unexpected_removed = removed
 
     def is_valid(self):
-        ''' Check if the unexpected lists are not empty '''
         if (not self.unexpected_added) and (not self.unexpected_removed):
             return False
         return True
     
     def is_closing_tag(self, s1, s2):
         '''
-            Check if the difference between two strings is only one char (levenshtein distance == 1).
+        Description:
+            Check if the difference between two strings is only a char (levenshtein distance == 1).
             Example backslash inserted optionally on tags: <meta> and <link>
+        Params:
+            s1: string one
+            s2: string two
+        Return:
+            True if levenshtein distance == 1
         '''
         s1, s2 = self._parser(s1), self._parser(s2)
         distance = Levenshtein.distance(s1, s2)
@@ -84,14 +88,12 @@ class Analyser:
         tag = BeautifulSoup()
 
     def is_union(self, unexpected_added):
-        ''' check if item in list is a union object (js/html list) '''
         for line in unexpected_added:
             if self.is_js_list(line) or self.is_html_class(line):
                 return True
         return False
 
     def handle_union(self):
-        ''' handle lines that have union behaviour '''
         if not len(self.unexpected_removed) or not self.is_union(self.unexpected_added):
             return
                 
@@ -156,7 +158,6 @@ class Analyser:
         self.unexpected_removed = _removed
 
     def get_html_class_items(self, string):
-        ''' get items from html class attribute '''
         pattern = '<\s*\w*\s*class\s*=\s*"?\s*([\w\s%#\/\.;:_-]*)\s*"?.*?>'
         regex = re.compile(pattern)
         match = regex.search(string)
@@ -167,7 +168,6 @@ class Analyser:
         return None
 
     def get_js_list_items(self, string):
-        ''' get items from JS list '''
         pattern = '\[(.+)\]'
         regex = re.compile(pattern)
         match = regex.search(string)
@@ -179,17 +179,27 @@ class Analyser:
 
     def is_js_list(self, string):
         '''
+        Description:
             Check if the string is a javascript variable inserted on html page 
             Example: var wp_load_script = [...];
+        Params:
+            string: unexpected code found by PENA
+        Return:
+            True if is a javascript variable
         '''
         pattern = '(.+)\=.+\[.+\]\;$'
         regex = re.compile(pattern, re.IGNORECASE)
         return regex.search(string.strip()) is not None
 
     def is_html_class(self, string):
-        ''' 
+        '''
+        Description:
             Check if the string is a html tag with class attribute
             Example: <body class="home blog styles hfeed responsive-menu-slide-left"> 
+        Params:
+            string: unexpected code found by PENA
+        Return:
+            True if is a javascript variable
         '''
         pattern = '<\s*\w*\s*class.*?>'
         regex = re.compile(pattern, re.IGNORECASE)

@@ -1,0 +1,3 @@
+#!/bin/bash
+R --vanilla --quiet --slave < tcost-PW.r
+R --vanilla --quiet --slave < merge_SS_iterative.r

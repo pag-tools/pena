@@ -11,9 +11,8 @@
 ### Conflicts in WordPress experiment
 | Total | True Positives   | False Positives  | Visual Conflicts
 | :---: |:---:| :---:| :---:|
-| 21 | 8 | 13 | 2
-- All conflicts found ([link]())
-- True Positives ([link]())
-- False Positives ([link]())
-- Visual Conflicts ([link]())
-
+| 21 | 8 | 13 | 1
+- All conflicts found ([link](https://github.com/pag-tools/pena/blob/master/pena/conflicts/wp_experiment/all.txt))
+- True Positives ([link](https://github.com/pag-tools/pena/blob/master/pena/conflicts/wp_experiment/all.txt))
+- False Positives ([link](https://github.com/pag-tools/pena/blob/master/pena/conflicts/wp_experiment/all.txt))
+- Visual Conflicts ([link](https://github.com/pag-tools/pena/blob/master/pena/conflicts/wp_experiment/all.txt))

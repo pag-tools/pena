@@ -1,36 +1,40 @@
+<h2>Requirements</h2>
 <ul>
-    <li><h2>Pre-requisites:</h2><a href="https://www.docker.com/get-docker">Docker</a></li>
+    <li><a href="https://www.docker.com/get-docker">Docker</a></li>
+</ul>
 
-    <li><h2>Running PENA container</h2>
-        <ol>
-            <li>Open the terminal and download <a href="https://github.com/pag-tools/pena/tree/master/pena">PENA project</a>:</br>
-                <pre>$ wget https://github.com/pag-tools/pena/blob/master/pena/dist/pena.zip</pre> 
-                or <a href="https://github.com/pag-tools/pena/blob/master/pena/dist/pena.zip">click here</a> 
-                to download the zip file.</li>
-            <li>Extract it and run: <code>$ cd pena && docker build -t pena . </code></li>
-            <li>To run the container: <code>$ docker run --name pena --rm -it -p 80:80 pena`</code></li>
-        </ol>
+<h2>Build and running PENA</h2>
+<ol>
+    <li>Open the terminal and download <a href="https://github.com/pag-tools/pena/tree/master/pena">PENA project</a>:</br>
+        <label class="code">$ wget https://github.com/pag-tools/pena/blob/master/pena/dist/pena.zip</label>
     </li>
+    <li>Extract it and run: <code>$ cd pena && docker build -t pena . </code></li>
+    <li>Running the container: <code>$ docker run --name pena --rm -it -p 80:80 pena</code></li>
+</ol>
 
-    <li><h2>Running experiments</h2>
-        This steps will be executed on container, you can define an alias:</br>
-        <code>$ alias pena_cmd="docker exec -i -t pena sudo -E -u www-data $1"</code>
-        <p>All runners are inside <code>experiment</code> folder, to run each of them:</p>
-        <ul>
-            <li> Efficiency Experiment: <code><label>$ pena_cmd ./experiments/efficiency.sh<label></code></li>
-            <li> Accuracy Experiment: <code>$ pena_cmd ./experiments/accuracy.sh</code></li>
-            <li> Conflicts on Wordpress Experiment: <code>$ pena_cmd ./experiments/wp_experiment.sh</code></li>
-            <li> To run all experiments, use: <code>$ pena_cmd ./experiments/all_experiment.sh</code></li>
-        </ul>
+<h2>Running experiments</h2>
+This steps will be executed on running container, you can define an alias:</br>
+<code>$ alias pena_cmd="docker exec -i -t pena sudo -E -u www-data $1"</code>
+<p>All runners are inside <code>experiment</code> folder, to run each of them:</p>
+<ul>
+    <strong>Efficiency Experiment</strong>: <code><label>$ pena_cmd ./experiments/efficiency.sh<label></code></br>
+    <strong>Accuracy Experiment:</strong><code>$ pena_cmd ./experiments/accuracy.sh</code></br>
+    <strong>Conflicts on Wordpress Experiment</strong>: <code>$ pena_cmd ./experiments/wp_experiment.sh</code></br>
+    <strong>Running all experiments</strong>:<code>$ pena_cmd ./experiments/all_experiment.sh</code></br>
+</ul>
         
-        <p>The logs are stored on each experiment folder, you can check after each execution:</p>
-        <ul>
-            <li> Efficiency Experiment: <code>$ pena_cmd cat ./experiments/efficiency/logs/efficiency.log</code></li>
-            <li> Accuracy Experiment: <code>$ pena_cmd cat ./experiments/accuracy/logs/accuracy.log</code></li>
-            <li> Conflicts on Wordpress Experiment: <code>$ pena_cmd cat ./experiments/wp_experiment/logs/wp_experiment.log</code></li>
-    </li>
+<p>The logs are stored on each experiment folder, you can check after each execution:</p>
+<ul>
+    <li> Efficiency Experiment: <code>$ pena_cmd cat ./experiments/efficiency/logs/efficiency.log</code></li>
+    <li> Accuracy Experiment: <code>$ pena_cmd cat ./experiments/accuracy/logs/accuracy.log</code></li>
+    <li> Conflicts on Wordpress Experiment: <code>$ pena_cmd cat ./experiments/wp_experiment/logs/wp_experiment.log</code></li>
+</ul>
 
-    <li><h2>Artifacts</h2>
-        To check the project artifacts (code, logs, conflicts) go to <a href="{{ site.artifacts_page }}/">our github</a>
-    </li>
+<h2>Artifacts</h2>
+To check the project artifacts (code, logs, conflicts) access <a href="{{ site.artifacts_page }}/">our github</a>.
+
+<h2>Removing PENA</h2>
+<ul>
+    <li>Get PENA CONTAINER_ID: <code>$ docker ps | grep pena </code></li>
+    <li>To stop and remove image run:</br> <code>$ docker stop CONTAINER_ID && docker rmi CONTAINER_ID </code></li>
 </ul>

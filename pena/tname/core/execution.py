@@ -23,7 +23,7 @@ class SplitSearch(Runner):
         self.__ITERATIVE = iterative
         self.__INITIAL_SEED = 12345
         self.__remaining_plugins = set({})
-        self.limit_iteration = 20
+        self.limit_iteration = 20 # limit of iterations if a conflict involving 3 plugins appears
 
     def run(self, config):
         logging.info("STEP - Started search")

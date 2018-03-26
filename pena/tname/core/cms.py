@@ -20,6 +20,7 @@ class WordPressCLI(CMSInterface):
             cmd = ["wp", "plugin", "activate"]
             cmd.extend(plugins)
             cmd.append("--path={}".format(self.__home))
+            cmd.append("--allow-root")
             call(cmd, stdout=DEVNULL, stderr=DEVNULL)
 
     def deactivate(self, plugins):
@@ -28,10 +29,11 @@ class WordPressCLI(CMSInterface):
             cmd = ["wp", "plugin", "deactivate"]
             cmd.extend(plugins)
             cmd.append("--path={}".format(self.__home))
+            cmd.append("--allow-root")
             call(cmd, stdout=DEVNULL, stderr=DEVNULL)
 
     def __fetch_plugins(self):
         """ fetch installed plugins as csv file """
-        output = check_output(["wp", "plugin", "list", "--format=csv", "--field=name",
+        output = check_output(["wp", "plugin", "list", "--format=csv", "--field=name", "--alow-root",
                                "--path={}".format(self.__home)])
         return {plugin for plugin in output.decode().splitlines()}

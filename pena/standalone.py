@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import logging
+import logging, time, sys, random, ast
 
 from tname.core.execution import Pairwise, SplitSearch
 from tname.core.pena import PENA
@@ -9,18 +9,18 @@ logging.basicConfig(
     level=logging.DEBUG,
     format="%(asctime)s:%(levelname)s:%(funcName)s:%(message)s",
     datefmt="%I:%M:%S %p",
-    filename="logs/standalone.log"
+    filename="/pena/standalone.log"
 )
 
-pena = PENA(cms_path="./environment/wordpress/wordpress")
+pena = PENA(cms_path="/var/www/html")
 
 ### update settings ###
 pena.set_mode(SplitSearch)
 pena.set_skip_dimensionality(True)
-pena.visual_oracle = True
+pena.visual_oracle = False
 pena.remove_spurious = True
 
 ### add plugins###
-PLUGINS = setup(k=100) # get 100 plugins from dataset
+PLUGINS = []
 pena.set_input_plugins(PLUGINS)
 pena.run()

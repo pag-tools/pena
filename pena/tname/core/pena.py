@@ -3,17 +3,17 @@ from tname.core.execution import SplitSearch
 from tname.core.cms import WordPressCLI
 from tname.core.model import WebDriver, Verifier, Configuration, plain_html, check_frequency
 from tname.core.model import dimensionality_reduction
-from tname.core.visual_effects.visual_oracle import VisualOracle
-from tname.core.visual_effects.screenshot import Screenshot
+from tname.core.visual_oracle.visual_oracle import VisualOracle
+from tname.core.visual_oracle.screenshot import Screenshot
 from tname.core.analyser import Analyser
 from tname.core.timer import Timer
 
 class PENA:
-    def __init__(self, cms_path, url="http://localhost:8081", heuristic=plain_html, debug=True):
+    def __init__(self, cms_path, url="http://localhost", heuristic=plain_html, debug=True):
         """
         Params:
             cms_path: path for wordpress folder
-            url: wordpress index page url (default is http://localhost:8081)
+            url: wordpress index page url (default is http://localhost)
             heuristic: type of heuristic used to check page conflict
             debug: test pages will not been removed after execution (check ~/tmp/ folder)
         """
@@ -110,7 +110,7 @@ class PENA:
             None
         """
         if len(self.input_plugins) < 2:
-            raise Exception('Plugin list invalid. The plugin list size must have >= 2')
+            raise Exception('Plugin list invalid. The plugin list must have lenght 2 or more.')
 
         # deactivate plugins
         self.cli.deactivate(self.input_plugins)
@@ -120,7 +120,7 @@ class PENA:
         
         logging.info("Run Started")
 
-        technnique = self.mode(self.verifier, is_single_remove=True)
+        technnique = self.mode(self.verifier)
 
         # STEP 1 - DIMENSIONALITY REDUCTION
         reduced_plugins = dimensionality_reduction(
@@ -216,7 +216,7 @@ class PENA:
         logging.info("Run Finished!")
 
         if not self.debug:
-            web_driver.cleanup()
+            self.web_driver.cleanup()
 
     def generate_nodes(self, plugins, conflicts):
         """

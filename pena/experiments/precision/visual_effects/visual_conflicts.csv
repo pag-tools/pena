@@ -1,0 +1,25 @@
+conflict,visual_effects
+"googleanalytics, jetpack-gplus-provider",False
+"wp-author-date-and-meta-remover, remove-query-strings-from-static-resources",False
+"wp-parsidate, events-manager",False
+"cherry-testi, remove-query-strings-from-static-resources",False
+"wordpress-seo, platinum-seo-pack",False
+"seo-wordpress, wonderm00ns-simple-facebook-open-graph-tags",False
+"woocommerce-social-media-share-buttons, easy-coming-soon",False
+"super-socializer, facebook-thumb-fixer",True
+"custom-contact-forms, wp-meta-seo",False
+"elementor, viral-social-sharing-icons-by-up",False
+"wp-spamshield, roses-like-this",False
+"genesis-favicon-uploader, search-carousel",False
+"wc-vendors, fancy-box",False
+"seo-ultimate, add-meta-tags",False
+"megamenu, root-relative-urls",False
+"root-relative-urls, easy-fancybox",False
+"easy-fancybox, easy-social-icons",False
+"genesis-connect-woocommerce, wordpress-mobile-pack-hunt",False
+"easy-twitter-feed-widget, nextcellent-gallery-nextgen-legacy",False
+"cookie-law-info, wp-external-links",False
+"spiderblocker, floating-social-media-icon",False
+"shiftnav-responsive-mobile-menu, root-relative-urls",False
+"menu-icons, wp-performance-score-booster",False
+"os-related-posts, fb-display-events-shortcode",False
